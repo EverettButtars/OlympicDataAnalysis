@@ -1,5 +1,4 @@
-0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-,№ Summer,01 !,02 !,03 !,Total,№ Winter,01 !,02 !,03 !,Total,№ Games,01 !,02 !,03 !,Combined total
+Name,Summer,S1,S2,S3,STotal,Winter,W1,W2,W3,WTotal,Combined,C1,C2,C3,CTotal
 Afghanistan (AFG),13,0,0,2,2,0,0,0,0,0,13,0,0,2,2
 Algeria (ALG),12,5,2,8,15,3,0,0,0,0,15,5,2,8,15
 Argentina (ARG),23,18,24,28,70,18,0,0,0,0,41,18,24,28,70
@@ -146,4 +145,3 @@ Independent Olympic Participants (IOP) [IOP],1,0,1,2,3,0,0,0,0,0,1,0,1,2,3
 Zambia (ZAM) [ZAM],12,0,1,1,2,0,0,0,0,0,12,0,1,1,2
 Zimbabwe (ZIM) [ZIM],12,3,4,1,8,1,0,0,0,0,13,3,4,1,8
 Mixed team (ZZX) [ZZX],3,8,5,4,17,0,0,0,0,0,3,8,5,4,17
-Totals,27,4809,4775,5130,14714,22,959,958,948,2865,49,5768,5733,6078,17579
