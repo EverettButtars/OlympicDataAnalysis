@@ -19,6 +19,10 @@ During the analysis I asked 4 questions:
     - Summer games: 100.78082191780823
     - Winter games: 19.623287671232877
     - Both games: 120.4041095890411
+4. What is the total number of medals won?
+    - Summer games: 14714
+    - Winter games: 2865
+    - Both games: 17579
 
 # Development Environment
 
